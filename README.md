@@ -16,14 +16,12 @@
 [![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&logo=discord&label=Discord&color=7289DA)](https://discord.gg/your-invite-link)
 [![Twitter](https://img.shields.io/twitter/follow/quantumxpower?style=for-the-badge&logo=twitter)](https://twitter.com/quantumxpower)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/QuantumXPower111/nsfw-creator-pass/badge?style=for-the-badge)](https://securityscorecards.dev/viewer/?uri=github.com/QuantumXPower111/nsfw-creator-pass)
-[![CodeQL](https://github.com/QuantumXPower111/nsfw-creator-pass/actions/workflows/codeql-analysis.yml/badge.svg?style=for-the-badge)](https://github.com/QuantumXPower111/nsfw-creator-pass/actions/workflows/codeql-analysis.yml)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-025E8C?style=for-the-badge&logo=dependabot)](https://dependabot.com)
 [![Snyk](https://snyk.io/test/github/QuantumXPower111/nsfw-creator-pass/badge.svg?style=for-the-badge)](https://snyk.io/test/github/QuantumXPower111/nsfw-creator-pass)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FQuantumXPower111%2Fnsfw-creator-pass.svg?type=shield&style=for-the-badge)](https://app.fossa.com/projects/git%2Bgithub.com%2FQuantumXPower111%2Fnsfw-creator-pass)
+
 
 > ⚡ **A Web3-powered cross-platform membership layer for adult content creators**
 
-![NSFW Creator Pass Banner](https://via.placeholder.com/1200x400/1E1E2E/FFFFFF?text=NSFW+Universal+Creator+Pass+Platform)
 
 ## 📋 Table of Contents
 
